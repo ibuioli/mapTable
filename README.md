@@ -1,2 +1,2 @@
 # mapTable
-Software mapTable para Realidad Aumentada Espacial, desarrollado en el marco de la Beca CIN EVC
+Software mapTable for Augmented Reality Space, developed for Scholarship "Estímulo a la Vocación Científica 2016/2017" emited by "Consejo Interuniversitario Nacional".
